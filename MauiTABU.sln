@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiTABU.Gui", "MauiTABU.Gui\MauiTABU.Gui.csproj", "{143763AA-8AC2-4E5B-9058-7480202FFDAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiTABU.Gui", "MauiTABU.Gui\MauiTABU.Gui.csproj", "{143763AA-8AC2-4E5B-9058-7480202FFDAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiTABU.GameLogic", "MauiTABU.GameLogic\MauiTABU.GameLogic.csproj", "{79B34884-3782-4671-A136-6C8A67ED3D2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{143763AA-8AC2-4E5B-9058-7480202FFDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{143763AA-8AC2-4E5B-9058-7480202FFDAB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{143763AA-8AC2-4E5B-9058-7480202FFDAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{79B34884-3782-4671-A136-6C8A67ED3D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B34884-3782-4671-A136-6C8A67ED3D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B34884-3782-4671-A136-6C8A67ED3D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B34884-3782-4671-A136-6C8A67ED3D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
